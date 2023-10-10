@@ -1,0 +1,38 @@
+@media (max-width: 800px) {
+    #lamp {
+        width: 10vw;
+        height: 22vh;
+        margin-top: -40px;
+    }
+
+    #inte {
+        width: 10vw;
+        height: 10vh;
+        padding-top: 100px;
+        padding-left: 150px;
+    }
+}
+
+@media (min-width: 801px) and (max-width: 1023px) {
+    #lamp{
+        width: 10vw;
+        height: 22vh;
+        margin-top: -40px;
+    }
+
+    #inte{
+        width: 5vw;
+        height: 10vh;
+        padding-top: 100px;
+        padding-left: 155px;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1120px){
+    #inte{
+        width: 5vw;
+        height: 10vh;
+        padding-top: 75px;
+        padding-left: 150px;
+    }
+}
